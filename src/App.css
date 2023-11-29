@@ -191,8 +191,9 @@ section {
     transition-duration: .3s;
 }
 
-.container {
-    max-width: 500px;
+#container {
+    width: 1000px;
+    height: 70vh;
     margin: 0 auto;
     padding: 40px;
     background-color: #fff;
@@ -224,8 +225,10 @@ section {
 }
 
 #btnform {
+    margin-top: 50px;
+    margin-left: 25%;
     display: block;
-    width: 100%;
+    width: 50%;
     padding: 10px;
     background-color: #535353;
     color: #ffffff;

@@ -6,7 +6,7 @@ function Contact() {
             <div className="">
                 <section id="contact">
                     <p className="text-center text-white text-4xl contact"><b>Contact Me</b></p>
-                    <div className="container">
+                    <div id="container">
                         <form id="contactForm" action="https://formspree.io/f/xrgwwpdy" method="POST">
                             <div className="form-group">
                                 <label htmlFor="name">
