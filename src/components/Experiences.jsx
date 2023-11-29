@@ -41,7 +41,7 @@ function Experiences () {
             </div>
             </div>
             <div className="experience center">
-                <a href="https://www.linkedin.com/in/benedict-aurelius-9b1b3b1b2/" target="_blank" rel="noreferrer"><button className="Btn">See More</button></a>
+                <a href="src/assets/CVs.pdf" target="_blank" rel="noreferrer"><button className="Btn">See More</button></a>
             </div>
         </section>
     )
