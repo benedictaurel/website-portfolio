@@ -34,7 +34,7 @@ function Experiences () {
                 <span className="yellow" />
                 <span className="green" />
                 </div>
-                <h1>EXERCISE FTUI INTERSHIP</h1>
+                <h1>EXERCISE FTUI INTERNSHIP</h1>
                 <p>I am currently doing an internship at Exercise as a Software Intern.
                 <img src="src/assets/exercise.png" alt="Exercise" width={300} height={300} className="bg-center" />
                 </p>
